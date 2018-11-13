@@ -1,0 +1,29 @@
+h2 {
+    background-color: green;
+    color: white;
+}
+.main {
+    list-style-type: upper-roman;
+}
+.cOutlist {
+    background-color: pink;
+}
+.cMidlist {
+    list-style-type: upper-alpha;
+}
+.mOutlist {
+    background-color: blue;
+}
+.mMidlist {
+    list-style-type: upper-alpha; 
+}
+.sOutlist {
+    background-color: red;
+}
+.sMidlist {
+    list-style-type: upper-alpha;
+}
+footer {
+    background-color: lightskyblue;
+    color: red;
+}
